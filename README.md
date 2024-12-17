@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats-gilt-nine-12.vercel.app/api/top-langs/?username=db-wakamatsu&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,NanoVNA2-firmware)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-gilt-nine-12.vercel.app/api?username=db-wakamatsu&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gilt-nine-12.vercel.app/api/top-langs/?username=db-wakamatsu&count_private=true&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,NanoVNA2-firmware)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHubStatsByOwnVercelDeployment](https://github-readme-stats-gilt-nine-12.vercel.app/api?username=db-wakamatsu&count_private=true&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
