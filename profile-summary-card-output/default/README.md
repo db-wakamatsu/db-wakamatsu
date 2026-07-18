@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/db-wakamatsu/db-wakamatsu/main/profile-summary-card-output/default/3-stats.svg)
+```
+
+    
