@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/db-wakamatsu/db-wakamatsu/main/profile-summary-card-output/radical/3-stats.svg)
-```
-
-    
